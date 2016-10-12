@@ -31,36 +31,36 @@
 
   - Control de paquetes
 
-1. npm
-2. bower
-3. composer
-4. gem
+        1. npm
+        2. bower
+        3. composer
+        4. gem
 
   - Control de versiones
 
-1. git
+        1. git
 
   - Editor de código
 
-1. Atom
-2. Sublime Text
+        1. Atom
+        2. Sublime Text
 
 2. **Frontend**
 
   - Maquetación estructural de una aplicación web actual
 
- 1. Html5
- 2. Css3
+         1. Html5
+         2. Css3
 
   - Introducción a frameworks de maquetados y css
 
- 1. Bootstrap 3
- 2. Materialize css
+         1. Bootstrap 3
+         2. Materialize css
 
   - JavaScript y patron mvvm
 
- 1. Angular JS
- 2. Angular routing
+         1. Angular JS
+         2. Angular routing
 
 3. **Backend**
 
