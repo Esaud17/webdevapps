@@ -54,27 +54,27 @@
 
   - Introducción a frameworks de maquetados y css
 
-         1. Bootstrap 3
-         2. Materialize css
+                 1. Bootstrap 3
+                 2. Materialize css
 
   - JavaScript y patron mvvm
 
-         1. Angular JS
-         2. Angular routing
+                 1. Angular JS
+                 2. Angular routing
 
 3. **Backend**
 
   - como diseñar un Api Rest y en que consiste
 
- 1. Json
- 2. Ajax
- 3. Workers
- 4. Sockets
+                 1. Json
+                 2. Ajax
+                 3. Workers
+                 4. Sockets
 
   - uso de frameworks para backend php
 
- 1. laravel
- 2. lumen
+                 1. laravel
+                 2. lumen
 
   - uso de frameworks para backen ruby
 
