@@ -31,14 +31,14 @@
 
   - Control de paquetes
 
-         1. npm
-         2. bower
-         3. composer
-         4. gem
+           1. npm
+           2. bower
+           3. composer
+           4. gem
 
   - Control de versiones
 
-         1. git
+           1. git
 
   - Editor de código
 
@@ -76,7 +76,7 @@
          2. lumen
   - uso de frameworks para backen ruby
 
-         1. Rails
+           1. Rails
          2. Sinatra
 
 4. **Despliegue de servicios en producción**
