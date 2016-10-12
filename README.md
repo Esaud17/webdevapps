@@ -4,12 +4,6 @@
 
 1. **Entorno de desarollo**
 
-<center>Hardware</center>  | <center>Detalles</center>
------------- | -------------
-<center>**CPU**</center> |<center> Intel i3 de 64 bit </center>
-<center>**RAM**</center> |<center> 2 GB</center>
-<center>**Disco Duro**</center> |<center> 250 GB </center>
-
   - Requerimientos
 
       - **Conexión a internet necesaria**
