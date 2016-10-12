@@ -49,8 +49,8 @@
 
   - Maquetación estructural de una aplicación web actual
 
-         1. Html5
-         2. Css3
+                 1. Html5
+                 2. Css3
 
   - Introducción a frameworks de maquetados y css
 
