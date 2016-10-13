@@ -89,7 +89,7 @@
   - Ataques Comunes
   - Métodos de seguridad en registro de información
 
-## Temas cubiertos:
+## Temas a cubri:
 
 - [x] Frontend
 - [ ] Backend
