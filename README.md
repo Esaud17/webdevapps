@@ -96,6 +96,15 @@
 - [ ] Despliegue
 - [ ] Seguridad
 
+**nota:** ser querie un equipo con los siguientes requimientos minimos
+
+<center>Hardware</center>  | <center>Detalles</center>
+------------ | -------------
+<center>**CPU**</center> |<center> Intel i3 de 64 bit </center>
+<center>**RAM**</center> |<center> 2 GB</center>
+<center>**Disco Duro**</center> |<center> 250 GB </center>
+
+
 ## Frase célebre
 
 >Imagina , crea y aprende . claro si sabes programar podrás hacer muchas ideas realidad, recuerda el internet nos conecta, solo diviértete haz lo mejor para el mundo. así quizás otros querrán usar algo hecho por ti. Los productos hechos por diversión y no ambición son los mejores pero recuerda solo diviértete.
