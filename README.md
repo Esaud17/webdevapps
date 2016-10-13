@@ -6,21 +6,21 @@
 
   - Requerimientos
 
-          - **Conexión a internet necesaria**
-          - softwares
+      - **Conexión a internet necesaria**
+      - softwares
 
-                        1.  Rails installer 2.2
-                        2.  Node 4.x
-                        3.  Wamp , Lamp , Mamp
-                        4.  python 2.x
-                        5.  Mariadb en el puerto 3307
-                        6.  Postgres sql 5.9
-                        7.  Redis
-                        8.  Mongodb
-                        9.  git
-                        10. Atom
+                    1.  Rails installer 2.2
+                    2.  Node 4.x
+                    3.  Wamp , Lamp , Mamp
+                    4.  python 2.x
+                    5.  Mariadb en el puerto 3307
+                    6.  Postgres sql 5.9
+                    7.  Redis
+                    8.  Mongodb
+                    9.  git
+                    10. Atom
 
-          - computadora
+      - computadora
 
 
   - Control de paquetes
