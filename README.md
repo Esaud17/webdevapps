@@ -97,7 +97,7 @@
 - [ ] Despliegue
 - [ ] Seguridad
 
-**nota:** ser querie un equipo con los siguientes requimientos minimos
+**nota:** el equipo de cumplir con los siguientes requimientos minimos
 
 <center>Hardware</center>  | <center>Detalles</center>
 ------------ | -------------
