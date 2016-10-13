@@ -9,16 +9,17 @@
       - **Conexión a internet necesaria**
       - softwares
 
-                    1.  Rails installer 2.2
-                    2.  Node 4.x
-                    3.  Wamp , Lamp , Mamp
-                    4.  python 2.x
-                    5.  Mariadb en el puerto 3307
-                    6.  Postgres sql 5.9
-                    7.  Redis
-                    8.  Mongodb
-                    9.  git
-                    10. Atom
+        1.  Rails installer 2.2 [Descargar](http://railsinstaller.org/en)
+        2.  Node 4.x [Descargar](https://nodejs.org/es/)
+        3.  Wamp , Lamp , Mamp [Descargar](http://www.wampserver.com/)
+        4.  python 2.x [Descargar](https://www.python.org/)
+        5.  Mariadb en el puerto 3307 [Descargar](https://downloads.mariadb.org/mariadb/10.1.18/)
+        6.  Postgres sql 5.9 [Descargar](https://www.postgresql.org/download/)
+        7.  Redis [Descargar](https://github.com/rgl/redis/downloads)
+        8.  Mongodb [Descargar](https://www.mongodb.com/es)
+        9.  git [Descargar](https://git-scm.com/)
+        10. composer [Descargar](https://getcomposer.org/download/)
+        10. Atom [Descargar](https://atom.io/)
 
       - computadora
 
