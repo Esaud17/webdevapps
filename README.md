@@ -1,4 +1,4 @@
-<center>![Image](http://www.zoftco.com/wp-content/uploads/2014/10/paginas-webs.png)</center>
+<center>![Image](https://i.ytimg.com/vi/LcTQoRlcs-A/maxresdefault.jpg)</center>
 
 # <center>  Guía Contenidos</center>
 
